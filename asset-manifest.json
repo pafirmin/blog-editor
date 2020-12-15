@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pafirmin.github.io/blog-editor/static/css/main.6b82ae4b.chunk.css",
+    "main.js": "/pafirmin.github.io/blog-editor/static/js/main.b3a840c7.chunk.js",
+    "main.js.map": "/pafirmin.github.io/blog-editor/static/js/main.b3a840c7.chunk.js.map",
+    "runtime-main.js": "/pafirmin.github.io/blog-editor/static/js/runtime-main.b0b0d726.js",
+    "runtime-main.js.map": "/pafirmin.github.io/blog-editor/static/js/runtime-main.b0b0d726.js.map",
+    "static/js/2.c0f2ba8f.chunk.js": "/pafirmin.github.io/blog-editor/static/js/2.c0f2ba8f.chunk.js",
+    "static/js/2.c0f2ba8f.chunk.js.map": "/pafirmin.github.io/blog-editor/static/js/2.c0f2ba8f.chunk.js.map",
+    "index.html": "/pafirmin.github.io/blog-editor/index.html",
+    "static/css/main.6b82ae4b.chunk.css.map": "/pafirmin.github.io/blog-editor/static/css/main.6b82ae4b.chunk.css.map",
+    "static/js/2.c0f2ba8f.chunk.js.LICENSE.txt": "/pafirmin.github.io/blog-editor/static/js/2.c0f2ba8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0b0d726.js",
+    "static/js/2.c0f2ba8f.chunk.js",
+    "static/css/main.6b82ae4b.chunk.css",
+    "static/js/main.b3a840c7.chunk.js"
+  ]
+}
